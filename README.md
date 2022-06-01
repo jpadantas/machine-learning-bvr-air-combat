@@ -7,5 +7,5 @@ Please check the ipynb files:
 
 * 1-EDA.ipynb: Exploratory Data Analysis;
 * 2-Feature-Selection.ipynb: Feature selection techniques using ANOVA-f Statistic and Mutual Information Statistics;
-* 3-ANN-Classification-Attack.ipynb: Training and Evaluation of the Classification Model using an Artificial Neural Networks concerning the Attack Data;
-* 4-ANN-Classification-Defense.ipynb: Training and Evaluation of the Classification Model using an Artificial Neural Networks concerning the Defense Data.
+* 3-ANN-Classification-Attack.ipynb: Training and Evaluation of the Classification Model using an Artificial Neural Network concerning the Attack Data;
+* 4-ANN-Classification-Defense.ipynb: Training and Evaluation of the Classification Model using an Artificial Neural Network concerning the Defense Data.
