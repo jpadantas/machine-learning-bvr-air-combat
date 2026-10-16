@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Code for: Machine Learning to Improve Situational Awareness in Beyond Visual Range Air Combat"
+type: software
+authors:
+  - family-names: "Dantas"
+    given-names: "Joao P. A."
+    orcid: "https://orcid.org/0000-0003-0300-8027"
+  - family-names: "Maximo"
+    given-names: "Marcos R. O. A."
+  - family-names: "Costa"
+    given-names: "Andre N."
+  - family-names: "Geraldo"
+    given-names: "Diego"
+  - family-names: "Yoneyama"
+    given-names: "Takashi"
+repository-code: "https://github.com/jpadantas/machine-learning-bvr-air-combat"
+preferred-citation:
+  type: article
+  journal: "IEEE Latin America Transactions"
+  title: "Machine Learning to Improve Situational Awareness in Beyond Visual Range Air Combat"
+  authors:
+    - family-names: "Dantas"
+      given-names: "Joao P. A."
+      orcid: "https://orcid.org/0000-0003-0300-8027"
+    - family-names: "Maximo"
+      given-names: "Marcos R. O. A."
+    - family-names: "Costa"
+      given-names: "Andre N."
+    - family-names: "Geraldo"
+      given-names: "Diego"
+    - family-names: "Yoneyama"
+      given-names: "Takashi"
+  volume: "20"
+  issue: "8"
+  start: "2039"
+  end: "2045"
+  year: 2022
+  doi: "10.1109/TLA.2022.9853232"
+  url: "https://www.joaopadantas.com/publications/dantas2022machine/"
