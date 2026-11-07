@@ -1,4 +1,7 @@
 # machine-learning-bvr-air-combat
+
+> **Paper, PDF and citation:** [joaopadantas.com/publications/dantas2022machine](https://www.joaopadantas.com/publications/dantas2022machine/)
+
 IEEE Latin America Transactions
 
 Python code for the article Machine Learning to Improve Situational Awareness in Beyond Visual Range Air Combat.
